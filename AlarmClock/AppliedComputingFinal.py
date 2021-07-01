@@ -364,7 +364,7 @@ app.display()
 
 
 #Get Weather info
-apiKey = "1a04c39711a9a27878b48f9e65b7c8d8"
+apiKey = "APIKeyHere"
 weatherObject = pyowm.OWM(apiKey)
 obsObj = weatherObject.weather_at_place('Chicago, United States')
 weather = obsObj.get_weather()
