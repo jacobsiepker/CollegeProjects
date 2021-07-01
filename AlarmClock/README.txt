@@ -1,1 +1,1 @@
-Please pardon the blatent overuse of global variables, I have since learned.
+Please pardon the blatent overuse of global variables in this project, I have since learned.
